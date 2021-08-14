@@ -19,7 +19,5 @@ Open-source libraries used in this project are:
 
 This app is ready to be published on google playstore.
 
-Inspired from R K Pandey’s My Memory game 
-
-
+Inspired from R K Pandey
 
