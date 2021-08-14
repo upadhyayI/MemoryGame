@@ -10,6 +10,7 @@ This game can be played with the default icons, or it can be played as a custom 
 1.  indrima
 2.  nature
 3.  random
+4.  ind24
 
 Open-source libraries used in this project are:
 
