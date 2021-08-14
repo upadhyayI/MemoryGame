@@ -4,7 +4,9 @@ This is an android app that uses Kotlin to build a customizable memory game that
 2.	Cloud Firestore
 3.	Firebase Analytics
 4.	Firebase RemoteConfig 
+
 Open-source libraries used in this project are:
+
 1.	Confetti: https://github.com/jinatonic/confetti 
 2.	Picasso: https://github.com/square/picasso 
 
