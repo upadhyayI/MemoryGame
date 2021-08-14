@@ -7,7 +7,9 @@ This is an android app that uses Kotlin to build a customizable memory game that
 Open-source libraries used in this project are:
 1.	Confetti: https://github.com/jinatonic/confetti 
 2.	Picasso: https://github.com/square/picasso 
-This app is ready to be published.
+
+This app is ready to be published o google playstore.
+
 Inspired from R K Pandey’s My Memory game 
 
 
