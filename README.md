@@ -5,7 +5,11 @@ This is an android app that uses Kotlin to build a customizable memory game that
 3.	Firebase Analytics
 4.	Firebase RemoteConfig 
 
-This game can be played with the default icons, or it can be played as a custom game using photos from personal gallarey of the user's phone. It is also possible to download memory board games made by others by entering the game name. 
+This game can be played with the default icons, or it can be played as a custom game using photos from personal gallarey of the user's phone. It is also possible to download memory board game made by others by entering the game name. Such sample games that can be tried out are:
+
+1.  indrima
+2.  nature
+3.  random
 
 Open-source libraries used in this project are:
 
