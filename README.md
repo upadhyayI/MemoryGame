@@ -5,12 +5,14 @@ This is an android app that uses Kotlin to build a customizable memory game that
 3.	Firebase Analytics
 4.	Firebase RemoteConfig 
 
+This game can be played with the default icons, or it can be played a custom game using photos from personal gallarey of the user's phone. It is also possible to download memory board games made by others by entering the game name. 
+
 Open-source libraries used in this project are:
 
 1.	Confetti: https://github.com/jinatonic/confetti 
 2.	Picasso: https://github.com/square/picasso 
 
-This app is ready to be published o google playstore.
+This app is ready to be published on google playstore.
 
 Inspired from R K Pandey’s My Memory game 
 
